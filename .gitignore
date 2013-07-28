@@ -1,3 +1,5 @@
 config.py
 *.db
 *.pyc
+flask
+virtualenv.py
